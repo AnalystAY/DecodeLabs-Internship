@@ -243,4 +243,4 @@ Open to collaboration, learning opportunities, and data analytics projects.
 
 ---
 
-⭐ If you found this project interesting, feel free to explore the tasks and provide feedback.
+If you found this project interesting, feel free to explore the tasks and provide feedback.
