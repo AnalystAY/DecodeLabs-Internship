@@ -20,28 +20,6 @@ Using a sales transaction dataset containing customer orders, products, payment 
 
 ---
 
-## Repository Structure
-
-```text
-decodelabs_tasks/
-│
-├── README.md
-│
-├── Task_1_Excel_Data_Analysis/
-│   ├── README.md
-│   ├── Sales Data.csv
-│   ├── Dashboard.png
-│   └── Analysis_Report.pdf
-│
-├── Task_2_SQL_Data_Analysis/
-│   ├── README.md
-│   ├── sales_analysis.sql
-│   ├── Sales Data.csv
-│   └── Query_Screenshots/
-```
-
----
-
 # Task 1: Excel Data Analysis
 
 ## Objective
