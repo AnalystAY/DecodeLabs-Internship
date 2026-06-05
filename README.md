@@ -1,8 +1,8 @@
-# DecodeLabs Internship Tasks Submission
+# DecodeLabs Project Tasks Submission
 
-Welcome to my DecodeLabs Internship Project Repository!
+Welcome to my DecodeLabs Project Repository!
 
-This repository contains my completed Data Analytics internship tasks, where I applied Excel and SQL to analyze real-world sales data, uncover business insights, and strengthen my analytical skills.
+This repository contains my completed Data Analytics tasks, where I applied Excel and SQL to analyze real-world sales data, uncover business insights, and strengthen my analytical skills.
 
 ---
 
