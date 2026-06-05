@@ -1,4 +1,4 @@
-# 🚀 DecodeLabs Internship Tasks Submission
+# DecodeLabs Internship Tasks Submission
 
 Welcome to my DecodeLabs Internship Project Repository!
 
